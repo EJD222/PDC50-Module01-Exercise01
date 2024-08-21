@@ -17,7 +17,24 @@
     <img src="Screenshots/LightModeNotSaved-1.png" alt="LightModeNotSaved-1" width="270" height="585">
     <img src="Screenshots/LightModeNotSaved-2.png" alt="LightModeNotSaved-2" width="270" height="585">
 </p>
+
+## Dark Mode (Not Saved)
+### Output Screenshots
 <p align="center">
     <img src="Screenshots/DarkModeNotSaved-1.png" alt="DarkModeNotSaved-1" width="270" height="585">
-    <img src="Screenshots/DarkModeNotSaved-1.png" alt="DarkModeNotSaved-2" width="270" height="585">
+    <img src="Screenshots/DarkModeNotSaved-2.png" alt="DarkModeNotSaved-2" width="270" height="585">
+</p>
+
+## Light Mode (Saved)
+### Output Screenshots
+<p align="center">
+    <img src="Screenshots/LightModeSaved-1.png" alt="LightModeSaved-1" width="270" height="585">
+    <img src="Screenshots/LightModeSaved-2.png" alt="LightModeSaved-2" width="270" height="585">
+</p>
+
+## Dark Mode (Saved)
+### Output Screenshots
+<p align="center">
+    <img src="Screenshots/DarkModeSaved-1.png" alt="DarkModeSaved-1" width="270" height="585">
+    <img src="Screenshots/DarkModeSaved-2.png" alt="DarkModeSaved-2" width="270" height="585">
 </p>
