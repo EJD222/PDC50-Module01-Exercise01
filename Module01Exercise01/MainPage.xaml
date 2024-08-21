@@ -107,7 +107,7 @@
             <Button Text="Save"
                     VerticalOptions="Center"
                     HorizontalOptions="Fill"
-                    Clicked="OnClickSubmit"
+                    Clicked="OnClickSave"
                     Margin="0,20,0,0" />
             <Label x:Name="DynamicMessage"
                    Text="{DynamicResource DynamicMessage}"

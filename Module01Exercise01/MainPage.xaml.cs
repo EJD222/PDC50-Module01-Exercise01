@@ -59,7 +59,7 @@ namespace Module01Exercise01
             }
         }
 
-        private void OnClickSubmit(object sender, EventArgs e)
+        private void OnClickSave(object sender, EventArgs e)
         {
             this.Resources["DynamicMessage"] = "Saved successfully!";
         }
