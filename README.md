@@ -14,10 +14,10 @@
 ## Light Mode (Not Saved)
 ### Output Screenshots
 <p align="center">
-    <img src="LightModeNotSaved-1/App-1.png" alt="LightModeNotSaved-1" width="270" height="585">
-    <img src="LightModeNotSaved-1/App-2.png" alt="LightModeNotSaved-2" width="270" height="585">
+    <img src="Screenshots/LightModeNotSaved-1.png" alt="LightModeNotSaved-1" width="270" height="585">
+    <img src="Screenshots/LightModeNotSaved-2.png" alt="LightModeNotSaved-2" width="270" height="585">
 </p>
 <p align="center">
-    <img src="DarkModeNotSaved-1/App-1.png" alt="DarkModeNotSaved-1" width="270" height="585">
-    <img src="DarkModeNotSaved-1/App-2.png" alt="DarkModeNotSaved-2" width="270" height="585">
+    <img src="Screenshots/DarkModeNotSaved-1.png" alt="DarkModeNotSaved-1" width="270" height="585">
+    <img src="Screenshots/DarkModeNotSaved-1.png" alt="DarkModeNotSaved-2" width="270" height="585">
 </p>
